@@ -1,14 +1,5 @@
 # Git Commit Message Cheatsheet
 
-## Format
-```
-<type>(<scope>): <subject>
-
-<body>
-
-<footer>
-```
-
 ## Types
 - feat: A new feature
 - fix: A bug fix
